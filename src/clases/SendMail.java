@@ -12,8 +12,8 @@ import javax.swing.JOptionPane;
 
 public class SendMail {
 
-    public static String Username = "BorthCerveza@gmail.com";
-    public static String PassWord = "cantinflas10";
+    public static String Username = "Borth@gmail.com";
+    public static String PassWord = "porto0900";
 
     public void SendMail(String msg, String para, String sujeto) {
 
